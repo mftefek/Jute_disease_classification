@@ -28,7 +28,8 @@ To execute the GUI and the inference engine, the following are required:
 
 ---
 
-Data availability
+[Data availability](url)
+
 	The data that support the findings of this study are openly available in Harvard Dataverse at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FJ1DM1. The dataset is described in detail and cited as: Islam, M. M., Sheikh, M. R. 2026. "A comprehensive image dataset of jute diseases". Data in Brief, 64(February 2026), 112334.
 
 The sample images are from the dataset/article above.
